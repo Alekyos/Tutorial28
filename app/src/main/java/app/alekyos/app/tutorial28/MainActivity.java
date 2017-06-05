@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
     Button btnconsultar, btnGuardar;
     EditText etId, etNombres, etTelefono;
 
-    //INICIO 2
+    //INICIO
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
